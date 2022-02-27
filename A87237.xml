@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration and protestation of the Lord Inchiquin, and all the officers under his command, voluntarily taken and subscribed by his councill of vvarre, that they will maintaine the honour of the King, and the priviledge and freedome of Parliament, according to his solemne ingagement, against all opposers, and other his great discouragements.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87237</idno>
+            <idno type="STC">Wing I129</idno>
+            <idno type="STC">Thomason E447_13</idno>
+            <idno type="STC">ESTC R12908</idno>
+            <idno type="EEBO-CITATION">99859367</idno>
+            <idno type="PROQUEST">99859367</idno>
+            <idno type="VID">111441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111441)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration and protestation of the Lord Inchiquin, and all the officers under his command, voluntarily taken and subscribed by his councill of vvarre, that they will maintaine the honour of the King, and the priviledge and freedome of Parliament, according to his solemne ingagement, against all opposers, and other his great discouragements.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Effectively a declaration of revolt by Inchiquin and the English forces under his command against Parliamentary control.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111441:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <p>THE DECLARATION AND PROTESTATION OF THE LORD <hi>JNCHIQUIN,</hi> And all The Officers under his Command, voluntarily taken and ſubſcribed by his Councill of VVarre, That they will maintaine the honour of the King, and the Priviledge and Freedome of Parliament, according to his ſolemne Ingage<g ref="char:EOLhyphen"/>ment, againſt all oppoſers, and other his great diſcouragements.</p>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111441:2"/>
+            <!-- PDF PAGE 49 -->
+            <pb n="1" facs="tcp:111441:2"/>
+            <!-- PDF PAGE 49 -->
+            <head>The Lord <hi>Inchiquins</hi> Proteſtati<g ref="char:EOLhyphen"/>on <date>Sexto Maii 1648.</date> at a Council of VVarre.</head>
+            <p>
+               <hi>ORdered this day</hi> (nemine contradi<g ref="char:EOLhyphen"/>cente) <hi>that the enſuing Proteſtation be tendred to all the Officers of this Army, for their conſents thereunto; and for the further ſatisfaction of the people therin, That the ſame, with the Preface thereto, be read in all ſeverall Churches of the ſeverall Proteſtant Garriſons in this Pro<g ref="char:EOLhyphen"/>vince, by the reſpective Miniſters thereof, on the next Sabbath day after the recint of a Copie hereof.</hi>
+            </p>
+            <p>WHereas certaine Officers of this Army, of a long time filled with prejudica<g ref="char:EOLhyphen"/>cy and diſaffection of the publike ſervice,
+<pb n="2" facs="tcp:111441:3"/>
+               <!-- PDF PAGE 50 -->
+in Complyance with ſuch of our private adverſaries in the Kingdome of <hi>England,</hi> as laboured the obſtructing of all reliefe to this miſerable Province, have taken occaſion up<g ref="char:EOLhyphen"/>on a publike Declaration, made in the head of this Army at <hi>Mallo,</hi> of our reall intentions and reſolutions, to adde here unto thoſe obli<g ref="char:EOLhyphen"/>gations, which are upon us to the King, and Parliament of <hi>England,</hi> by our Nationall oath, and to oppoſe and decline all perſons acting contrary to our publike and ſolemne engagement; to miſrepreſent the Cordiall paſſages and expreſſions of that Declaration, in ſuch a falſe and ſcandalous recitall thereof, as to thoſe that underſtand not the Candor of our reſolutions, may ſeeme to carry off our contriving ſome deſigne inconſiſtent with our former principles and profeſſions, labouring thereby to beget a diſ-opinion of our proceedings, as ſavouring of defection from the Parliament of <hi>England,</hi> or of pro<g ref="char:EOLhyphen"/>penſion to the Iriſh action; For the vindi<g ref="char:EOLhyphen"/>cating of our integrity from which foule a<g ref="char:EOLhyphen"/>ſperſion, and for the undeceiving of al<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe
+<pb n="3" facs="tcp:111441:3"/>
+               <!-- PDF PAGE 50 -->
+good and well affected perſons, who deſire a right underſtanding of all tranſactions, wee doe make this enſuing. Proteſtation, without compulſion or mentall reſerva<g ref="char:EOLhyphen"/>on, That</p>
+            <p>WEe ſhall acoording to our Covenant, to the utmoſt of our power, endeavour the eſtabliſhment of the Proteſtant Religion, according to the beſt reformed Churches, and to reſtore his Majeſty to his juſt Rights, Power and prerogative, the Parliament of <hi>England</hi> to their freedome, and Subjects to their Liberty. And becauſe wee finde the power of <hi>England</hi> (or rather the Independent party in <hi>England</hi> now too prevalent) private<g ref="char:EOLhyphen"/>ly and publikely endeavour to take off all the Presbiterian party, both in that and this Kingdome, from their Commands, as men not fit to be truſted, becauſe faithfull not fa<g ref="char:EOLhyphen"/>ctious, and for no other reaſon; Wee profeſſe to oppoſe the ſaid party, and to adhere in all things to our Declaration: And to admit of no for<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es either from <hi>England,</hi> or elſewhere,
+<pb n="4" facs="tcp:111441:4"/>
+               <!-- PDF PAGE 51 -->
+without conſent of the Generall, or major part of the ſuperiour Officers of this Army. And if any perſon ſhall be found amongſt us who ſhall endeavour to ſeduce our ſoul<g ref="char:EOLhyphen"/>diers, or refuſe to joyne with us in this bu<g ref="char:EOLhyphen"/>ſineſſe, to proceed againſt him as an enemie to the Proteſtant party in this Kingdome. We are further reſolved to uſe all means poſ<g ref="char:EOLhyphen"/>ſible, to preſerve the Intereſt of <hi>England</hi> in this Province. And although the deſignes of the Independents have obtruded a neceſſity upon us (by refuſing to ſend us neceſſary ſupplies) to get our maintenance in this Kingdome; yet wee ſhall never condiſcend to any thing which ſhall not be conſonant to a good con<g ref="char:EOLhyphen"/>ſcience, our honour, and former Ingage<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Ordered likewiſe, that<lb/>
+               <hi>VVHereas the Army in this Province, ac<g ref="char:EOLhyphen"/>cording to their duty, Oathes, and for<g ref="char:EOLhyphen"/>mer profeſſions, have unanimouſly reſolved to maintaine the Proteſtant Religion, his Majeſties
+<pb n="5" facs="tcp:111441:4"/>
+                  <!-- PDF PAGE 51 -->
+Rights, the freedome of the Parliament, and Li<g ref="char:EOLhyphen"/>berty of ſubject; It is Ordered, that if any Offi<g ref="char:EOLhyphen"/>cers ſhall raiſe any diſpute or diſcourſe about the difference which hath been betwixt his Majeſty and the Presbyterian party, the ſaid Officers ſhall be uncapable of any Office or command in the Ar<g ref="char:EOLhyphen"/>my. And if any Officers ſhall fight about any ſuch diſpute, they and every of them ſhall for the ſame offence ſuffer death without mercy. And if any private ſouldier ſhall offend in this kinde, he ſhall for the firſt offence paſſe the courtlope, and for the ſecond ſuffer death. And if any perſon ſhall offend therein, he ſhall for the firſt offence pay five pounds, and for the ſecond have his eſtate ſeque<g ref="char:EOLhyphen"/>ſtred, and ſuffer Impriſonment during the Lord Preſidents pleaſure; and that this Order be pub<g ref="char:EOLhyphen"/>liſhed in the head of every Regiment, and a Copy thereof fixed on the gates of the City.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
